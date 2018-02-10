@@ -1,0 +1,5 @@
+
+MOV CX,100  
+REP
+    REP
+    INC AX 
